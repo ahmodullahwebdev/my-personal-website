@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.clear{
+    overflow: hidden;
+}
+section{
+    padding-left: 15%;
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+section:last-child{
+    margin-bottom: 0%;
+}
+.headersection{
+    background-image: url(images/header-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+.half-width{
+    width: 40%;
+    float: left;
+}
+.half-width img{
+    width: 90%;
+}
+#add-padding{
+    padding-top: 5%;
+}
+.half-width h3{
+    font-size: 25px;
+}
+.half-width h1{
+    font-size: 45px;
+    color:rgb(207, 18, 56);
+}
+.half-width p{
+    color: dimgray;
+    text-align: justify;
+}
+.link-button {
+    text-decoration: none;
+    color: white;
+    background: crimson;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 12px;
+}
+.dreamseaction{
+    background-image: url(images/biography-bg.png);
+    background-position: center;
+    background-size: cover;
+}
+#giving-shape {
+    padding-top: 8%;
+    padding-left: 8%;
+}
+.half-width h2{
+    font-size: 35px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-position: inherit;
+    background-size: cover;
+}
+.latest-work-image img{
+    width: 25%;
+    padding-left: 6%;
+    
+}
+.latest-work-image img:first-child{
+    padding-left: 2%;
+}
+.footersection{
+ background-image: url(images/footer-bg.png);
+ background-position: center;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 30px;
+}
+.bruce{
+    text-align: center;
+}
+.bruce p{
+    color: dimgray;
+    margin-bottom: 3%;
+}
+.loremipsum{
+    text-align: center;
+    margin-bottom: 4%;
+}
+.leavemessage {
+    text-align: center;
+    background: rgb(248, 36, 78);
+    color: white;
+    border-radius: 10px;
+    width: 40%;
+    padding: 15px;
+    margin-left: 29%;
+    margin-bottom: 12%;
+}
+.copyright p{
+    color: dimgray;
+    text-align: center;
+}
